@@ -1,33 +1,35 @@
-#Natalia Ushakova
+# Natalia Ushakova
 -------
-##Contacts:
+## Contacts:
 --------
-*location: Setubal, Portugal
-*phone: +351928147755
-*email: natalia.kitesurf@gmail.com
-*GitHub: novedice
+* location: Setubal, Portugal
+* phone: +351928147755
+* email: natalia.kitesurf@gmail.com
+* GitHub: novedice
 
-##About me:
+## About me:
 -------
 
-##Skills:
+## Skills:
 ---------
-*HTML (Basic)
-*JavaScript(Basic)
-*Python(Basic)
+* HTML (Basic)
+* JavaScript(Basic)
+* Python(Basic)
 
-##Code Example:
+## Code Example:
 ------
+```
 function ask(question, yes, no) {
   if (confirm(question,'')) yes()
   else no()
 }
 ask("are you agree?",()=>alert("You are agree"),()=>alert("you are not agree"));
+```
 
-##Experience:
+## Experience:
 --------
 
-##Education:
+## Education:
 -------------
 Bauman Moscow State Technical University
 Department: Mechanical Engineering 
